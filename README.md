@@ -5,9 +5,9 @@
 
 1.
 
-![image](http://github.com/SolveBugs/CommonUiEffect/raw/master/images/1.gif)
+![image](https://github.com/SolveBugs/CommonUiEffect/blob/master/images/1.gif?raw=true)
 
 2.
 
-![image](http://github.com/SolveBugs/CommonUiEffect/raw/master/images/2.gif)
+![image](https://github.com/SolveBugs/CommonUiEffect/blob/master/images/2.gif?raw=true)
 
